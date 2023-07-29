@@ -1,2 +1,2 @@
-*.env*
+.env*
 *csv_w_gpt*
